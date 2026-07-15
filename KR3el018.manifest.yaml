@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3el018/v1
 canonical_location: https://kanripo.org/bkk/KR3el018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 正體類要
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3el018_000.yaml, hash: 'sha256:accf3e4724462f0b7296b9d0fd87be3d3df129b7c196a151e1381b337cd5c0c5'}
-  - {seq: 1, filename: KR3el018_001.yaml, hash: 'sha256:97c44d6236111f58d95b4f18fef0e6a490b9f9101034ddf3a7030958b06f35ca'}
-  - {seq: 3, filename: KR3el018_003.yaml, hash: 'sha256:7a043c016989ac35dd6566e29d463cf8081e8e8eaed148dc7167ae1fd9b2ac8f'}
+  - {seq: 0, filename: KR3el018_000.yaml, hash: 'sha256:2915447007ccbcf73515e3eca96bf0e9784674006959fe383bd35818ef5966ea'}
+  - {seq: 1, filename: KR3el018_001.yaml, hash: 'sha256:bf48b1b22bf0d897fa869626e4dd8686f8312149a94fb2652a6ad2dbeca7003a'}
+  - {seq: 3, filename: KR3el018_003.yaml, hash: 'sha256:dca2ff2612dc3e6a29ac0b90f4e0149bb97ab2dc206396a643f16fe748a6de4e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3el018_000.markers.yaml, hash: 'sha256:fcb2b633d982f5b477e745d6406c663642dd587becf5dbac26b8415cc46028cf'}
-  - {seq: 1, role: markers, filename: assets/KR3el018_001.markers.yaml, hash: 'sha256:f912f21a506d2175622a62bf052c9cde5d46ab94b21d1cdce942b1d6262ae1f8'}
-  - {seq: 3, role: markers, filename: assets/KR3el018_003.markers.yaml, hash: 'sha256:0975ca98b80358b038721fbf945ac04a95312f70490661ebc2ae3572ff52c803'}
+  - {seq: 0, role: markers, filename: assets/KR3el018_000.markers.yaml, hash: 'sha256:ff7c7190608ea5d54e56c46310d7b19c184d245f939fdd1d557bcbd327a8cfec'}
+  - {seq: 1, role: markers, filename: assets/KR3el018_001.markers.yaml, hash: 'sha256:d914d3f6a8bcfd56176b4061db48d9d4016defcc9db6f1e3eb903bcf4e7b67f2'}
+  - {seq: 3, role: markers, filename: assets/KR3el018_003.markers.yaml, hash: 'sha256:ec3694166f683fe6b0695d4e29f0452096d367418f1c7dbdc167a00048eece23'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1455,4 +1455,7 @@ table_of_contents:
   label: 本事玉真散
   type: section
   level: 3
-hash: sha256:4fdf07009a6050360f065ca492b139403b682701bf81f54dae1c231f4ca7ddd5
+hash: sha256:0878d4ee7e94f329fd85a34830398dd652191550cc379f52236217f0596ea546
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
